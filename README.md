@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <h1> HI, I AM Prateek</h1>
+  <h1> HI, I am Prateek</h1>
   <h2>An Engineering Student </h2>
   <h4> Each project moving to higher level defeating Enemies(BUGS & ERRORS) along the way and learning new Skills(Languages/Framework/Technology) to move on to next Level .</h4>
   <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="100"/>
